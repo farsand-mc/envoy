@@ -1,5 +1,5 @@
-# Envoy - the minecraft beta skin proxy 
-To use, add `-Dhttp.proxyHost=envoy.farsand.com` to your JVM arguments.
+# Glide - the minecraft beta skin proxy 
+To use, add `-Dhttp.proxyHost=glide.farsand.com` to your JVM arguments.
 # Selfhost
 This runs on port 5959, make sure to forward it through nginx. We recommend forwarding the two paths:
 - MinecraftSkins
