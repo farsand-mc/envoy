@@ -75,4 +75,4 @@ def handle_cloak(username):
         abort(404)
 
 if __name__ == '__main__':
-    app.run(port=5959)
+    app.run(port=5959, host="0.0.0.0")
